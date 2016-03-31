@@ -4,7 +4,7 @@
 # Base class for scenes.  A scene is basically a stage for game objects.  There
 # would be a scene for the game over screen, the main menu and the main game.
 ################################################################################
-# 09/09 Flembobs
+# 09/09 GoshDarnGames
 ################################################################################
 
 class Scene:

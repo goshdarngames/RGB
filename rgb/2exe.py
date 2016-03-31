@@ -20,10 +20,10 @@ from modulefinder import Module
 # GLOBAL DATA
 ##############################################################################
 
-VERSION = '0.1'
-AUTHOR_NAME = 'Flembobs'
-AUTHOR_EMAIL = 'fl3mbobs@gmail.com'
-AUTHOR_URL = "https://sites.google.com/site/fl3mbobs/home"
+VERSION = '1'
+AUTHOR_NAME = ''
+AUTHOR_EMAIL = ''
+AUTHOR_URL = "http://www.goshdarngames.com"
 PRODUCT_NAME = "RGB"
 SCRIPT_MAIN = 'rgb.py'
 VERSIONSTRING = PRODUCT_NAME + " ALPHA " + VERSION
